@@ -1,0 +1,1 @@
+# Boiler plate para um projeto django rest-framework
